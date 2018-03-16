@@ -1,0 +1,8 @@
+cn.edu.nuist.testSystem.beans
+cn.edu.nuist.testSystem.connection
+cn.edu.nuist.testSystem.controller
+cn.edu.nuist.testSystem.services
+cn.edu.nuist.testSystem.services.impls
+cn.edu.nuist.testSystem.testInterfaceDAO
+cn.edu.nuist.testSystem.testInterfaceDAO.impls
+cn.edu.nuist.testSystem.utils
